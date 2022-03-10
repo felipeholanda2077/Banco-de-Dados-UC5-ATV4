@@ -11,12 +11,11 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
-<br>
 
 <h1 align="center">Sobre o Projeto</h1>
 
-<h4>Projeto em arquivo SQL Banco de Dados</h4>
-🚧 Finalizado com sucesso 🚧
+<h4 align="center">Projeto em arquivo SQL Banco de Dados</h4>
+<h3 align="center">🚧 Finalizado com sucesso 🚧</h3>
 
 <br>
 
