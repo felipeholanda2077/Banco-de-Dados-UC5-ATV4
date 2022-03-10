@@ -3,11 +3,13 @@
       <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
 </p>
-<p aling="center">Esse projeto...</p>
-<a href="#sobre">Sobre</a> •
-<a href="#Imagem">Imagem</a> •
-<a href="#Tecnologias">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a>
+
+<p align="center">ÍNDICE...</p>
+<p align="center"><a href="#sobre">Sobre</a> • 
+<a href="#Imagem">Imagem</a> • 
+<a href="#Tecnologias">Tecnologias</a> • 
+<a href="#Ferramentas">Ferramentas</a></p>
+
 
 # Sobre o Projeto
 
