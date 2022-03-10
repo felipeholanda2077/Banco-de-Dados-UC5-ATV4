@@ -10,8 +10,10 @@
 <a href="#Tecnologias">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
 
+<br>
+<br>
 
-# Sobre o Projeto
+<h1 align="center">Sobre o Projeto</h1>
 
 <h4>Projeto em arquivo SQL Banco de Dados</h4>
 🚧 Finalizado com sucesso 🚧
