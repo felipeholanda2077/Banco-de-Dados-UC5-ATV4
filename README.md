@@ -13,7 +13,7 @@
 
 <h1 align="center">Sobre o Projeto</h1>
 
-<h4 align="center">Projeto em arquivo SQL Banco de Dados</h4>
+<h4 align="center">Projeto em arquivo SQL Banco de Dados em lógica de progamação</h4>
 <h3 align="center">🚧 Finalizado com sucesso 🚧</h3>
 
 <br>
