@@ -27,6 +27,7 @@
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
+  - [**Mantis**]
 
 <br>
 
