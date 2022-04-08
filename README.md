@@ -28,7 +28,7 @@
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-  - [**Mantis**](https://localhost.com/)
+  - [**Mantis**](https://localhost.com/) 
 
 <br>
 
